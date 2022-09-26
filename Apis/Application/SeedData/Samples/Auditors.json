@@ -1,0 +1,38 @@
+ [
+  {
+    "Id": "265935e0-9f63-4719-9bb8-f3394395af5d",
+    "Username": "Bangnt9",
+    "Email": "bangnbt9@gmail.com.vn",
+    "Phone": "0234235345",
+    "Skills": "NET,Java"
+  },
+  {
+    "Id": "979c7e2b-153f-47dd-ace2-7be3af093719",
+    "Username": "Manvm",
+    "Email": "manvm@gamil.com.vn",
+    "Phone": "0234235345",
+    "Skills": "Javascript,Typescript,React"
+  },
+  {
+    "Id": "979c7e2b-153f-47dd-ace2-7be3af093712",
+    "Username": "Vitt",
+    "Email": "vitt@gamil.com.vn",
+    "Phone": "0234235345",
+    "Skills": "NET,Python"
+  },
+  {
+    "Id": "979c7e2b-153f-47dd-ace2-7be3af093715",
+    "Username": "Datnt",
+    "Email": "datnt@gamil.com.vn",
+    "Phone": "0234235345",
+    "Skills": "Java,Angular,SpringBoot"
+  },
+  {
+    "Id": "979c7e2b-153f-47dd-ace2-7be3af093789",
+    "Username": "Tiepmm",
+    "Email": "tiepmm@gamil.com.vn",
+    "Phone": "0234235345",
+    "Skills": "NET"
+  }
+ ]
+

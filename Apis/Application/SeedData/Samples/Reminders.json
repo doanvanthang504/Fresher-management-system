@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "01aa59c6-5b5f-48cd-85d1-2cc82af80562",
+    "Subject": "[Remind] Audit module C# class Net 05 on 07/12/2022",
+    "Description": "On the day 07/12/2022 have a audit meeting of class Net 05",
+    "ReminderTime1": "2022/12/01T12:00:00Z",
+    "ReminderTime2": "2022/12/04T12:00:00Z",
+    "IsComplete": "false",
+    "ReminderType": 0,
+    "ReminderEmail": "tranhuusinh2612@gmail.com"
+  },
+  {
+    "Id": "6e87529a-1660-4b2f-a5f8-15f46f9598d3",
+    "Subject": "[Remind] Contract transfer class Net 05 on 22/12/2022",
+    "Description": "On the day 22/12/2022 have a contract transfer of class Net 05",
+    "ReminderTime1": "2022/12/01T12:00:00Z",
+    "ReminderTime2": null,
+    "IsComplete": "false",
+    "ReminderType": 1,
+    "ReminderEmail": "tranhuusinh2612@gmail.com"
+  }
+
+]

@@ -1,0 +1,35 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "RootSetting": {
+    "SmtpClientSetting": {
+      "Host": "smtp-mail.outlook.com",
+      "Port": 587, // TLS
+      "DeliveryMethod": "Network",
+      "EnableSsl": "true",
+      "UseDefaultCredentials": "false"
+    },
+    "TokenSetting": {
+      "SecretKey": "01234567012345670123456701234567",
+      "AccessTokenLifetimeInMinute": 60,
+      "AccessTokenHeader": "x-auth-token",
+      "SubjectKey": "userId"
+    }
+  },
+  "UserMailCredential": {
+    "Address": "thepluralman1st@outlook.com",
+    "SecureString": "thepluralman1a"
+  },
+  "ExampleEmail": {
+    "Address": "mock4ccount@outlook.com",
+    "SecureString": "thisis1account"
+  },
+  "Attendance": {
+    "Key": "thisissecretkeyforattendidareyoucanhackitehhehe"
+  }
+}

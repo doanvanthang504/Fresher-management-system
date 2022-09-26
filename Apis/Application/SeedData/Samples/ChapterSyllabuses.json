@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "159a4f31-5c7d-4a10-9f04-61d83a058c60",
+    "LectureChapters": [],
+    "Name": "MVC architecture in ASP.NET",
+    "TopicId": "a200e367-592e-486d-a25f-70f2fbb36b80",
+    "DayStart": 1,
+    "Order": 1
+  },
+  {
+    "Id": "0d2a746d-b1aa-423c-b7a1-ddadde402f39",
+    "LectureChapters": [],
+    "Name": "Routing in MVC",
+    "TopicId": "a200e367-592e-486d-a25f-70f2fbb36b80",
+    "DayStart": 2,
+    "Order": 2
+  },
+  {
+    "Id": "d43188f9-8466-4e98-b81c-08a8eb8483e5",
+    "LectureChapters": [],
+    "Name": "Chapter 1 Of Topic NPL (C#) advanced",
+    "TopicId": "5311973a-9491-47eb-af12-6fe71a2f6e5d",
+    "DayStart": 1,
+    "Order": 1
+  },
+  {
+    "Id": "804519c4-3130-4fc7-a78e-16e10b7bca61",
+    "LectureChapters": [],
+    "Name": "Chapter 2 Of Topic NPL (C#) advanced",
+    "TopicId": "5311973a-9491-47eb-af12-6fe71a2f6e5d",
+    "DayStart": 2,
+    "Order": 2
+  }
+]

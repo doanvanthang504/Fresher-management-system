@@ -1,0 +1,30 @@
+[
+  {
+    "LocationCode": "HCM",
+    "LocationName": "Hồ Chí Minh"
+  },
+  {
+    "LocationCode": "HN",
+    "LocationName": "Hà Nội"
+  },
+  {
+    "LocationCode": "DN",
+    "LocationName": "Đà Nẳng"
+  },
+  {
+    "LocationCode": "HP",
+    "LocationName": "Hải Phòng"
+  },
+  {
+    "LocationCode": "VT",
+    "LocationName": "Vũng Tàu"
+  },
+  {
+    "LocationCode": "CT",
+    "LocationName": "Cần Thơ"
+  },
+  {
+    "LocationCode": "HUE",
+    "LocationName": "Huế"
+  }
+]

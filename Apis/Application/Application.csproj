@@ -1,0 +1,110 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>		
+	  <None Remove="SeedData\Samples\Admins.json" />
+	  <None Remove="SeedData\Samples\Auditors.json" />
+	  <None Remove="SeedData\Samples\ChapterSyllabuses.json" />
+	  <None Remove="SeedData\Samples\ClassFreshers.json" />
+	  <None Remove="SeedData\Samples\ClassLocations.json" />
+	  <None Remove="SeedData\Samples\FeedbackAnswers.json" />
+	  <None Remove="SeedData\Samples\FeedbackQuestions.json" />
+	  <None Remove="SeedData\Samples\FeedbackResults.json" />
+	  <None Remove="SeedData\Samples\Feedbacks.json" />
+	  <None Remove="SeedData\Samples\FresherMajors.json" />
+	  <None Remove="SeedData\Samples\Freshers.json" />
+	  <None Remove="SeedData\Samples\FreshersJobRanks.json" />
+    
+	  <None Remove="SeedData\Samples\LectureChapters.json" />
+	  <None Remove="SeedData\Samples\Modules.json" />
+	  <None Remove="SeedData\Samples\PlanInformations.json" />
+	  <None Remove="SeedData\Samples\Plans.json" />
+	  <None Remove="SeedData\Samples\Reminders.json" />
+	  <None Remove="SeedData\Samples\Topics.json" />
+	  <None Remove="SeedData\Samples\Users.json" />
+	  <None Remove="SeedData\Samples\Attendances.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="11.0.1" />
+		<PackageReference Include="Hangfire.Core" Version="1.7.30" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.6" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.3.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Include="..\Global.Shared\GlobalUsings.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Include="SeedData\Samples\Admins.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\Auditors.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\ChapterSyllabuses.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\ClassFreshers.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\ClassLocations.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\FeedbackAnswers.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\FeedbackQuestions.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\FeedbackResults.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\Feedbacks.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\FresherMajors.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\Freshers.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\FreshersJobRanks.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\LectureChapters.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\Modules.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\PlanInformations.json" />
+	  <EmbeddedResource Include="SeedData\Samples\Plans.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\Reminders.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\Topics.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\Users.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="SeedData\Samples\Attendances.json">
+		<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Domain\Domain.csproj" />
+	  <ProjectReference Include="..\Global.Shared\Global.Shared.csproj" />
+	</ItemGroup>
+
+</Project>

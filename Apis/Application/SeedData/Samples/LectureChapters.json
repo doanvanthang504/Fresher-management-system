@@ -1,0 +1,90 @@
+[
+	{
+		"Id": "9eb4edc4-c0eb-4adb-a533-3b02b0b89fa5",
+		"Lecture": "Lab",
+		"ChapterSyllabusId": "159a4f31-5c7d-4a10-9f04-61d83a058c60",
+		"Content": "ASP.NET MVC Version History",
+		"LearningObjectives": "K6SD",
+		"DeliveryType": "Concept/Lecture",
+		"Duration": 10.00,
+		"Order": 1,
+		"NoteDetail": "NoteDetail"
+	},
+	{
+		"Id": "119217ca-129d-411f-af12-86ae0ed4cd4f",
+		"Lecture": "Lab",
+		"ChapterSyllabusId": "159a4f31-5c7d-4a10-9f04-61d83a058c60",
+		"Content": "ASP.NET MVC Folder Structure",
+		"LearningObjectives": "K6SD",
+		"DeliveryType": "Concept/Lecture",
+		"Duration": 30.00,
+		"Order": 2,
+		"NoteDetail": "NoteDetail"
+	},
+	{
+		"Id": "f757e3bb-b4bb-4a01-9f63-294426b61783",
+		"Lecture": "lab",
+		"ChapterSyllabusId": "159a4f31-5c7d-4a10-9f04-61d83a058c60",
+		"Content": "Creating First ASP.NET MVC Application",
+		"LearningObjectives": "K6SD",
+		"DeliveryType": "Concept/Lecture",
+		"Duration": 30.00,
+		"Order": 3,
+		"NoteDetail": "NoteDetail"
+	},
+	{
+		"Id": "ecf21d81-6e74-4e5d-b3d8-f3f68f5762a5",
+		"Lecture": "Lab",
+		"ChapterSyllabusId": "0d2a746d-b1aa-423c-b7a1-ddadde402f39",
+		"Content": "Routing in MVC",
+		"LearningObjectives": "K6SD",
+		"DeliveryType": "Concept/Lecture",
+		"Duration": 10.00,
+		"Order": 1,
+		"NoteDetail": "noteDetail"
+	},
+	{
+		"Id": "eefd2072-f5cf-43fa-a79a-b0dc2e041659",
+		"Lecture": "Lab",
+		"ChapterSyllabusId": "0d2a746d-b1aa-423c-b7a1-ddadde402f39",
+		"Content": "Route table",
+		"LearningObjectives": "K6SD",
+		"DeliveryType": "Concept/Lecture",
+		"Duration": 5.00,
+		"Order": 2,
+		"NoteDetail": "noteDetail"
+	},
+	{
+		"Id": "99f74e97-ec0e-4b59-a296-8526e563f458",
+		"Lecture": "Lab",
+		"ChapterSyllabusId": "0d2a746d-b1aa-423c-b7a1-ddadde402f39",
+		"Content": "URL Pattern in MVC",
+		"LearningObjectives": "K6SD",
+		"DeliveryType": "Concept/Lecture",
+		"Duration": 15.00,
+		"Order": 3,
+		"NoteDetail": "noteDetail"
+	},
+	{
+		"Id": "a518ffa4-1ee1-4a45-8b20-553add92d836",
+		"Lecture": "Lab",
+		"ChapterSyllabusId": "d43188f9-8466-4e98-b81c-08a8eb8483e5",
+		"Content": "Lecture 1 Of Chapter 1 In Topic C# Advanced",
+		"LearningObjectives": "K6SD",
+		"DeliveryType": "Concept/Lecture",
+		"Duration": 10,
+		"Order": 1,
+		"NoteDetail": "detail"
+	},
+	{
+		"Id": "4bad0dde-3bc3-4d94-a1fc-26723eed020b",
+		"Lecture": "Lab",
+		"ChapterSyllabusId": "d43188f9-8466-4e98-b81c-08a8eb8483e5",
+		"Content": "Lecture 2 Of Chapter 1 In Topic C# Advanced",
+		"LearningObjectives": "K6SD",
+		"DeliveryType": "Concept/Lecture",
+		"Duration": 10,
+		"Order": 1,
+		"NoteDetail": "detail"
+	}
+]

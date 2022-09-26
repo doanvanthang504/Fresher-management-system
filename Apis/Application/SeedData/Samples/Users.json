@@ -1,0 +1,54 @@
+[
+  {
+    "Id": "265935e0-9f63-4719-9bb8-f3394395af5d",
+    "Username": "bangnt9",
+    "Email": "banggbfu556@outlook.com",
+    "HashedPassword": "AQAAAAEAACcQAAAAECeU3qmD2s1WzpM5/1vB7mKE03suxSM0qEstSQJSLRB07BrxhSGxkLEgd+bLvdtrGg==",
+    "Phone": "0234235345"
+  },
+  {
+    "Id": "979c7e2b-153f-47dd-ace2-7be3af093719",
+    "Username": "manvm",
+    "Email": "mangbfu556@outlook.com",
+    "HashedPassword": "AQAAAAEAACcQAAAAECeU3qmD2s1WzpM5/1vB7mKE03suxSM0qEstSQJSLRB07BrxhSGxkLEgd+bLvdtrGg==",
+    "Phone": "0234235345"
+  },
+  {
+    "Id": "979c7e2b-153f-47dd-ace2-7be3af093712",
+    "Username": "vitt",
+    "Email": "vigbfu556@outlook.com",
+    "HashedPassword": "AQAAAAEAACcQAAAAECeU3qmD2s1WzpM5/1vB7mKE03suxSM0qEstSQJSLRB07BrxhSGxkLEgd+bLvdtrGg==",
+    "Phone": "0234235345"
+  },
+  {
+    "Id": "979c7e2b-153f-47dd-ace2-7be3af093715",
+    "Username": "datnt",
+    "Email": "datnt@gamil.com.vn",
+    "HashedPassword": "AQAAAAEAACcQAAAAECeU3qmD2s1WzpM5/1vB7mKE03suxSM0qEstSQJSLRB07BrxhSGxkLEgd+bLvdtrGg==",
+    "Phone": "0234235345"
+  },
+  {
+    "Id": "979c7e2b-153f-47dd-ace2-7be3af093789",
+    "Username": "tiepmm",
+    "Email": "tiepgbfu556@outlook.com",
+    "HashedPassword": "AQAAAAEAACcQAAAAECeU3qmD2s1WzpM5/1vB7mKE03suxSM0qEstSQJSLRB07BrxhSGxkLEgd+bLvdtrGg==",
+    "Phone": "0234235345"
+  },
+  {
+
+    "Id": "49e90595-1bbc-4ee2-ba4a-1ac9be8a602f",
+    "Username": "duyvv5",
+    "Email": "mock4ccount@outlook.com",
+    "HashedPassword": "AQAAAAEAACcQAAAAELuq/llUtV/B3kQbPR4BvpIyU4442WxpFAXmbWVC0MQCgXhHuqZpHW7ryblgUfamCA==",
+    "Phone": "0234235345"
+  },
+  {
+    "Id": "5b033452-1974-4c91-a14f-1218cd92a9a5",
+    "Username": "Tham",
+    "Email": "tham@outlook.com",
+    "HashedPassword": "AQAAAAEAACcQAAAAECeU3qmD2s1WzpM5/1vB7mKE03suxSM0qEstSQJSLRB07BrxhSGxkLEgd+bLvdtrGg==",
+    "Phone": "0234235345",
+    "Role": 1
+  }
+]
+

@@ -1,0 +1,14 @@
+[
+  {
+    "JobRankCode": "FR",
+    "JobRankName": "Fresher"
+  },
+  {
+    "JobRankCode": "INT",
+    "JobRankName": "Intern"
+  },
+  {
+    "JobRankCode": "CPL",
+    "JobRankName": "Campus Learn"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "Id": "64cb0b4b-3a36-4cdc-bb9e-9d64103409bb",
+    "ModuleName": "C #",
+    "PlanId": "4bdda332-168e-44e4-915c-ae29f048f288",
+    "Order": 1,
+    "AuditTitle": "auditTitle",
+    "Pic": "FA",
+    "DurationTotal": 1230,
+    "WeightedNumberQuizz": 10,
+    "WeightedNumberAssignment": 30,
+    "WeightedNumberFinal": 40,
+    "Mentor": "string"
+  },
+  {
+    "Id": "e61d39cb-93a4-4e7f-9d2e-364c1471213c",
+    "ModuleName": "EFCore",
+    "PlanId": "4bdda332-168e-44e4-915c-ae29f048f288",
+    "Order": 2,
+    "AuditTitle": "auditTitle",
+    "Pic": "FA",
+    "DurationTotal": 0,
+    "WeightedNumberQuizz": 15,
+    "WeightedNumberAssignment": 35,
+    "WeightedNumberFinal": 45,
+    "Mentor": "string"
+  }
+]

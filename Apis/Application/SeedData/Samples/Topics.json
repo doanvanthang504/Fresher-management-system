@@ -1,0 +1,56 @@
+[
+  {
+    "Id": "a200e367-592e-486d-a25f-70f2fbb36b80",
+    "Name": "NPL (C#) basic",
+    "ModuleId": "64cb0b4b-3a36-4cdc-bb9e-9d64103409bb",
+    "Order": 1,
+    "Pic": "FA",
+    "duration": 820,
+    "noteDetail": "Notdetail"
+  },
+  {
+    "Id": "5311973a-9491-47eb-af12-6fe71a2f6e5d",
+    "Name": "NPL (C#) advanced",
+    "ModuleId": "64cb0b4b-3a36-4cdc-bb9e-9d64103409bb",
+    "Order": 2,
+    "Pic": "FA",
+    "duration": 410,
+    "noteDetail": "Notdetail"
+  },
+  {
+    "Id": "bc14e527-820c-46b2-be0b-c0a6537ad915",
+    "Name": "Final Practices and Audit",
+    "ModuleId": "64cb0b4b-3a36-4cdc-bb9e-9d64103409bb",
+    "Order": 3,
+    "Pic": "TBD",
+    "duration": 0,
+    "noteDetail": "Notdetail"
+  },
+  {
+    "Id": "9ebd3875-1aa3-4e0d-b6ff-63821204d585",
+    "Name": "NETFW (Entity Framework)",
+    "ModuleId": "e61d39cb-93a4-4e7f-9d2e-364c1471213c",
+    "Order": 1,
+    "Pic": "FA",
+    "Duration": 0,
+    "NoteDetail": "Notdetail"
+  },
+  {
+    "Id": "1a5b3d87-fdcd-40fa-912e-7d87fd220084",
+    "Name": "NWEB (ASP.NET CORE MVC and API )",
+    "ModuleId": "e61d39cb-93a4-4e7f-9d2e-364c1471213c",
+    "Order": 2,
+    "Pic": "FA",
+    "Duration": 0,
+    "NoteDetail": "Notdetail"
+  },
+  {
+    "Id": "2963f98f-a568-4c3e-830a-da0c3c16d69d",
+    "Name": "Audit",
+    "ModuleId": "e61d39cb-93a4-4e7f-9d2e-364c1471213c",
+    "Order": 3,
+    "Pic": "Mentor",
+    "duration": 0,
+    "noteDetail": "Notdetail"
+  }
+]

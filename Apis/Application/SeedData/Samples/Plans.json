@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "4bdda332-168e-44e4-915c-ae29f048f288",
+    "CourseName": "Net01",
+    "CourseCode": "CodeNet01"
+  },
+  {
+    "Id": "dcca08a7-826c-45b0-b2cb-ea41abedb968",
+    "CourseName": "Net02",
+    "CourseCode": "CodeNet02"
+  }
+]
